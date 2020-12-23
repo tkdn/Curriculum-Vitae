@@ -50,6 +50,7 @@ HTML はセマンティックなマークアップを意識することが可能
 出版日 | タイトル | 出版社
 ---- | ----- | -----
 2020-10-09 | [フロントエンド開発入門](https://www.amazon.co.jp/dp/4798061778/) | [秀和システム](https://www.shuwasystem.co.jp/book/9784798061771.html)
+2020-12-04 | [カタ柱じゃなくてもできる、TypeScript の呼吸](https://zenn.dev/tkdn/books/type-breathing) | zenn.dev で配信
 
 ## LT を含んだ登壇
 日付 | タイトル | イベント
@@ -62,11 +63,13 @@ HTML はセマンティックなマークアップを意識することが可能
 2019-10-29 | [React SSR, 定期計測とプロダクトに最適なパフォーマンスアプローチ](https://tkdn.github.io/slides/2019-10-29-react-perfup-in-nihonbashijs/) | [Nihonbashi.js #6](https://nihonbashi-js.connpass.com/event/143549/)
 2019-11-30 | [mediba におけるフロントエンド、JavaScript](https://speakerdeck.com/tkdn/mediba-and-javascript-development) | [JSConf JP](https://jsconf.jp/2019/)
 2020-07-21 | [週一でリリースし続けるためのフロントエンドにおける不確実性との戦い方](https://speakerdeck.com/tkdn/developers-summit-2020-summer-c-4) | [デブサミ 2020 夏](https://event.shoeisha.jp/devsumi/20200721/session/2532/)
+2020-11-12 | [フロントエンド 私的リリース戦略史](https://tkdn.github.io/slides/2020-11-12-connehito-marche/#0)
 
 ## メディア・記事
 趣旨 | タイトル
 ---- | ----
-アドベントカレンダー発起 | [Next.js Advent Calendar 2019 - Qiita](https://qiita.com/advent-calendar/2019/next-js)
+Apollo Server 運用 | [GraphQL 採用における反省と Apollo Server の運用について](https://ceblog.mediba.jp/post/638171980263194625/graphql-and-apollo-server)
+Next.js アドベントカレンダー発起 | [Next.js Advent Calendar 2019 - Qiita](https://qiita.com/advent-calendar/2019/next-js)
 Web パフォーマンス計測について | [Datadog と Lighthouse を利用した WebPerf の継続的計測](https://ceblog.mediba.jp/post/186341145447/webperf-measuring-with-lighthouse-and-datadog)
 チームでの取材 | [チームビルディングの秘訣は“しょうもない雑談”にあり？「強いチーム」の作り方｜TECH PLAY Academy](https://note.com/techplayacademy/n/nee9351590a98)
 チームでの取材 | [開発を介さなくてもコンテンツが更新できるように！｜microCMS blog](https://microcms.io/blog/usecase-mediba/)
@@ -152,7 +155,7 @@ React/Redux の経験者が私しかいない中で、どういった学習で�
 <summary>2017-03〜2018.12 ポイント事業サービス開発</summary>
 
 # ポイント事業サービスにおけるフロントエンド
-親会社の提供するポイントを扱い、アプリ広告リワードやアンケート回答ほかデイリーガチャ等によるユーザのポイントを貯める Web サービスを展開するプロジェクト。
+親会社の提供するポイントを扱い、アプリ広告リワードやアンケート回答ほかデイリーガチャ等によるユーザのポイントを貯める Web サービスを展開するプロジェクト。
 
 当プロジェクトには保守・運用フェーズの改善からジョインし、Web フレームワーク EOL に際してのシステムリニューアルの途中まで関わり、プロジェクト内のフロントエンド全般とサービスサイドとのコミュニケーションハブなどを行った。
 
