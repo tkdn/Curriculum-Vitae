@@ -16,6 +16,7 @@
 |Facebook|[武田諭](https://www.facebook.com/tkdns/)|
 
 # 転職状況のステータス
+- 2021.3 カジュアル面談を一通り終えて選考への検討をしています。新しい会社との接点は今求めていません
 - 2020.12「納得度の高いプロダクト開発がしたい」という観点でカジュアル面談を設定していただきながら数社と面談をはじめています。3 月頃に転職意向が固まれば選考などに進ませていただく想定で進めています
 - 2020.10 積極的に転職を考えていませんが、エネルギーや環境・気候問題などの社会課題に取り組める、もしくは共同体や協働、コミュニティ再生といったキーワードに紐づく課題にコミットできる企業からの話は積極的に聞きたいと考えています
 
@@ -50,25 +51,14 @@ HTML はセマンティックなマークアップを意識することが可能
 ## 執筆
 出版日 | タイトル | 出版社
 ---- | ----- | -----
-2020-10-09 | [フロントエンド開発入門](https://www.amazon.co.jp/dp/4798061778/) | [秀和システム](https://www.shuwasystem.co.jp/book/9784798061771.html)
+2020-12-04 | [React テスト応用、テストに悩む人へ](https://zenn.dev/tkdn/books/react-testing-patterns) | zenn.dev で配信
 2020-12-04 | [カタ柱じゃなくてもできる、TypeScript の呼吸](https://zenn.dev/tkdn/books/type-breathing) | zenn.dev で配信
-
-## LT を含んだ登壇
-日付 | タイトル | イベント
----- | ----- | -----
-2018-12-12 | [フロントエンド全身ちぎれ節, 支えなくて良い技術を支える技術](https://tkdn.github.io/slides/technologies-that-dont-need-to-support/) | [BIT VALLEY -INSIDE- Vol.4 : ATND](https://atnd.org/events/101970)
-2019-04-17 | [au Web ポータルにおけるフロントエンドの取り組み, 未学習領域におけるチーム{学習,プレイ}とは](https://tkdn.github.io/slides/2019-04-17-frontend-learn-and-delegation/) | [BIT VALLEY -INSIDE- Vol.8 : ATND](https://atnd.org/events/104822)
-2019-06-26 | [Next.js / TypeScript でリニューアル, 運用におけるハマりどころ](https://tkdn.github.io/slides/2019-06-26-nextjs-and-typescript/) | [React Tokyo Plus](https://www.meetup.com/ReactJS-Tokyo/events/262199021/) | mercari
-2019-07-22 | [モブを高速で改善し（若干）倦怠している話](https://tkdn.github.io/slides/2019-07-22-mob-programming-meetup/) | [モブプログラミングMeetup](https://connpass.com/event/138267/)
-2019-08-29 | [運用に耐えた怪談のような webpack plugin たち](https://tkdn.github.io/slides/2019-08-29-build-battle-saga/) | [Build Battle Saga ~ Frontend ~](https://connpass.com/event/138267/) | Recruit Technologies
-2019-10-29 | [React SSR, 定期計測とプロダクトに最適なパフォーマンスアプローチ](https://tkdn.github.io/slides/2019-10-29-react-perfup-in-nihonbashijs/) | [Nihonbashi.js #6](https://nihonbashi-js.connpass.com/event/143549/)
-2019-11-30 | [mediba におけるフロントエンド、JavaScript](https://speakerdeck.com/tkdn/mediba-and-javascript-development) | [JSConf JP](https://jsconf.jp/2019/)
-2020-07-21 | [週一でリリースし続けるためのフロントエンドにおける不確実性との戦い方](https://speakerdeck.com/tkdn/developers-summit-2020-summer-c-4) | [デブサミ 2020 夏](https://event.shoeisha.jp/devsumi/20200721/session/2532/)
-2020-11-12 | [フロントエンド 私的リリース戦略史](https://tkdn.github.io/slides/2020-11-12-connehito-marche/#0)
+2020-10-09 | [フロントエンド開発入門](https://www.amazon.co.jp/dp/4798061778/) | [秀和システム](https://www.shuwasystem.co.jp/book/9784798061771.html)
 
 ## メディア・記事
 趣旨 | タイトル
 ---- | ----
+プロダクトマネジメントへの投資 | [納得度の高いプロダクト開発とは何だったのか。前編](https://ceblog.mediba.jp/post/644412626601951232/productmanagement-and-engineering-1), [後編](https://ceblog.mediba.jp/post/644412729058312192/productmanagement-and-engineering-2)
 Apollo Server 運用 | [GraphQL 採用における反省と Apollo Server の運用について](https://ceblog.mediba.jp/post/638171980263194625/graphql-and-apollo-server)
 Next.js アドベントカレンダー発起 | [Next.js Advent Calendar 2019 - Qiita](https://qiita.com/advent-calendar/2019/next-js)
 Web パフォーマンス計測について | [Datadog と Lighthouse を利用した WebPerf の継続的計測](https://ceblog.mediba.jp/post/186341145447/webperf-measuring-with-lighthouse-and-datadog)
@@ -76,6 +66,19 @@ Web パフォーマンス計測について | [Datadog と Lighthouse を利用�
 チームでの取材 | [開発を介さなくてもコンテンツが更新できるように！｜microCMS blog](https://microcms.io/blog/usecase-mediba/)
 海外記事翻訳 | [JavaScript の仕組み：メモリ管理+ 4つの共通のメモリリーク処理方法 - Qiita](https://qiita.com/tkdn/items/ea4f034e0d661def244a)
 俳優賞受賞 | [2013年 Corich 舞台芸術まつり](https://stage.corich.jp/festival2013/actor)
+
+## LT を含んだ登壇
+日付 | タイトル | イベント
+---- | ----- | -----
+2020-11-12 | [フロントエンド 私的リリース戦略史](https://tkdn.github.io/slides/2020-11-12-connehito-marche/#0)|[コネヒトマルシェ](https://connehito.connpass.com/event/193896/)
+2020-07-21 | [週一でリリースし続けるためのフロントエンドにおける不確実性との戦い方](https://speakerdeck.com/tkdn/developers-summit-2020-summer-c-4) | [デブサミ 2020 夏](https://event.shoeisha.jp/devsumi/20200721/session/2532/)
+2019-11-30 | [mediba におけるフロントエンド、JavaScript](https://speakerdeck.com/tkdn/mediba-and-javascript-development) | [JSConf JP](https://jsconf.jp/2019/)
+2019-10-29 | [React SSR, 定期計測とプロダクトに最適なパフォーマンスアプローチ](https://tkdn.github.io/slides/2019-10-29-react-perfup-in-nihonbashijs/) | [Nihonbashi.js #6](https://nihonbashi-js.connpass.com/event/143549/)
+2019-08-29 | [運用に耐えた怪談のような webpack plugin たち](https://tkdn.github.io/slides/2019-08-29-build-battle-saga/) | [Build Battle Saga ~ Frontend ~](https://connpass.com/event/138267/) | Recruit Technologies
+2019-07-22 | [モブを高速で改善し（若干）倦怠している話](https://tkdn.github.io/slides/2019-07-22-mob-programming-meetup/) | [モブプログラミングMeetup](https://connpass.com/event/138267/)
+2019-06-26 | [Next.js / TypeScript でリニューアル, 運用におけるハマりどころ](https://tkdn.github.io/slides/2019-06-26-nextjs-and-typescript/) | [React Tokyo Plus](https://www.meetup.com/ReactJS-Tokyo/events/262199021/) | mercari
+2019-04-17 | [au Web ポータルにおけるフロントエンドの取り組み, 未学習領域におけるチーム{学習,プレイ}とは](https://tkdn.github.io/slides/2019-04-17-frontend-learn-and-delegation/) | [BIT VALLEY -INSIDE- Vol.8 : ATND](https://atnd.org/events/104822)
+2018-12-12 | [フロントエンド全身ちぎれ節, 支えなくて良い技術を支える技術](https://tkdn.github.io/slides/technologies-that-dont-need-to-support/) | [BIT VALLEY -INSIDE- Vol.4 : ATND](https://atnd.org/events/101970)
 
 # 職務経歴
 ## 株式会社 mediba
