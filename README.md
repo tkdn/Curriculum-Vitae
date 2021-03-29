@@ -51,7 +51,7 @@ HTML はセマンティックなマークアップを意識することが可能
 ## 執筆
 出版日 | タイトル | 出版社
 ---- | ----- | -----
-2020-12-04 | [React テスト応用、テストに悩む人へ](https://zenn.dev/tkdn/books/react-testing-patterns) | zenn.dev で配信
+2021-02-24 | [React テスト応用、テストに悩む人へ](https://zenn.dev/tkdn/books/react-testing-patterns) | zenn.dev で配信
 2020-12-04 | [カタ柱じゃなくてもできる、TypeScript の呼吸](https://zenn.dev/tkdn/books/type-breathing) | zenn.dev で配信
 2020-10-09 | [フロントエンド開発入門](https://www.amazon.co.jp/dp/4798061778/) | [秀和システム](https://www.shuwasystem.co.jp/book/9784798061771.html)
 
